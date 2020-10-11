@@ -26,7 +26,7 @@ interests:
 
 education:
   courses:
- - course: MEng in EE
+- course: MEng in EE
     institution: Tokyo Metropolitan University
     year: 2022
 - course: BSc in EE
