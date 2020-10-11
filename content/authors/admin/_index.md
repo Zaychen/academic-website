@@ -26,6 +26,7 @@ interests:
 
 education:
   courses:
+  - Anhui jianzhu University ,2017
 
 
 # Social/Academic Networking
