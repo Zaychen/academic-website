@@ -26,12 +26,12 @@ interests:
 
 education:
   courses:
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MEng in EE
+    institution: Tokyo Metropolitan University
+    year: 2022
+  - course: BSc in EE
+    institution: Anhui Jianzhu University
+    year: 2017
 
 
 # Social/Academic Networking
