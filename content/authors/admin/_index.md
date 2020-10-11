@@ -26,12 +26,7 @@ interests:
 
 education:
   courses:
-- course: MEng in EE
-    institution: Tokyo Metropolitan University
-    year: 2022
-- course: BSc in EE
-    institution: Anhui Jianzhu University
-    year: 2017
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
